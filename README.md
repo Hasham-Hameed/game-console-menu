@@ -56,3 +56,6 @@ Planned improvements:
 ## Author
 
 Built while learning Python fundamentals: `while` loops, `match-case`, and string methods.
+
+## Regards 
+Hasham-Hameed
